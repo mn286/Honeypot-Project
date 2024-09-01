@@ -1,0 +1,10 @@
+INSTALL.txt
+===========
+
+Thank you for choosing Drupal. This file contains the basic instructions for installing Drupal.
+
+1. Ensure your server meets the requirements.
+2. Download and extract the Drupal package.
+3. Create a database for Drupal.
+4. Run the installation script by navigating to your site in a web browser.
+5. Follow the on-screen instructions to complete the installation.

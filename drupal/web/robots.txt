@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /private-files/
+Disallow: /user/register/
+Disallow: /sites/default/settings.php/
+Disallow: /xmlrpc.php/
+Disallow: /themes/
+Disallow: /install.php/
+
+# Honeypot-specific content
+Disallow: /honeypot/
+
+# Sitemap - Fake link to make bots think there's a sitemap
+Sitemap: /sitemap.xml
+
+# Explicitly allow Googlebot to access everything
+User-agent: Googlebot
+Disallow:

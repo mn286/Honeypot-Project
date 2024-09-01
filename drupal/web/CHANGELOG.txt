@@ -1,0 +1,10 @@
+Drupal 9.1.0, 2023-07-15
+=========================
+- Fixed various security vulnerabilities.
+- Improved performance for large-scale sites.
+- Updated dependencies.
+
+Drupal 9.0.0, 2022-12-18
+=========================
+- Initial release of Drupal 9.
+- Introduced new API features.

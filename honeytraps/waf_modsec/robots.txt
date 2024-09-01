@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-User-agent: Googlebot
-Disallow: /backup/
-Disallow: /cgi-bin/
-Disallow: /admin.bak/
-Disallow: /old/

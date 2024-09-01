@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  honeypot:
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      - PROFILE=wordpress  # Initial profile
+    volumes:
+      - ./logs:/usr/local/apache2/logs
+
